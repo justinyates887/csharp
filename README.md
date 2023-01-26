@@ -1,6 +1,8 @@
 # C# Language Track
 
-This repo is a journey through my solutions to [Exercism.org's](exercism.org) C# study course. Each folder represents a different project required to progress through the track, and should illustrate my journey through the language. Please check out exercism's free learning tools. Journey map will be indicated below, showing what the purpose of each project is in chronological order.
+**Due to lackluster formatting on Exercism's platforming, as well as unclear scopes and requirments, I have switched to Microsoft's official training curriculum for .NET and C#. All units after 6 were completed there. Advanced concepts after Exercism's courses will be included in this repo. Follow my progress at [Microsoft](https://learn.microsoft.com/en-us/users/justinyates-0980/)**
+
+This repo is a journey through my solutions to [Exercism.org's](https://exercism.org) C# study course. Each folder represents a different project required to progress through the track, and should illustrate my journey through the language. Please check out exercism's free learning tools. Journey map will be indicated below, showing what the purpose of each project is in chronological order.
 
 ### Journey Map
 
@@ -21,4 +23,7 @@ on external help. The solution has my comments on how the code works, step by st
 
 5) If-Statements: [Cars, Assemble!](./03-IfStatements/cars-assemble/CarsAssemble.cs)
 > In This project, the goal was to write three methods with if statements, returning the overall production rate of vehicles depending on the speed of production
-and the rate of failure for increased speeds. 
+and the rate of failure for increased speeds.
+
+6) Extension Methods: [Log Analysis Pt. 2](./04-ExtensionMethods/log-analysis/LogAnalysis.cs)
+> This project is incomplete due to lack of scope and requirments from the instructions. It is not my intention to play guesswork while learning a new library and language, therefore I will persue a different learning method until I am ready to seek challenges.
